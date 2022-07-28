@@ -1,2 +1,2 @@
-# artificial-intelligence-race-detection
-artificial race detection using pytorch
+# artificial-intelligence-dog-breed-detection
+an dog breed detection software using pytorch
